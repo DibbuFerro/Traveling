@@ -1,0 +1,64 @@
+[
+    {
+        "id": "#/SantaCruz",
+        "nombre":"Santa Cruz",
+        "precioAdulto": 25000 ,
+        "precioMenor": 21000 ,
+        "detalle":"La mítica Ruta Nacional 40 en Santa Cruz une el mar con la cordillera, los hielos milenarios y los secretos del horizonte infinito que conduce por el Corredor del Viento hacia la Ruta Azul. Una vuelta por la historia del planeta, de los tehuelches y los pioneros que tallaron este territorio pleno de naturaleza virgen.",
+        "img":"./src/santacruz.jpg",
+        "cantidadAdultos": 0,
+        "cantidadMenores": 0
+    },
+    {
+        "id": "#/Cataratas",
+        "nombre":"cataratas",
+        "precioAdulto": 35000 ,
+        "precioMenor": 31000 ,
+        "detalle":"Las magníficas Cataratas del Iguazú, una de las Siete Maravillas del Mundo, están conformadas por 275 saltos de agua que caen desde las más diversas alturas. La más alta, de 80 metros, es conocida como la Garganta del Diablo.",
+        "img":"./src/iguazu.jpg",
+        "cantidadAdultos": 0,
+        "cantidadMenores": 0
+    },
+    {
+        "id": "#/Mendoza",
+        "nombre":"Mendoza",
+        "precioAdulto": 40000 ,
+        "precioMenor": 35000 ,
+        "detalle":"Las montañas de Mendoza contrastan con los paisajes rurales y oasis transformados por la labor de los huarpes, incas y conquistadores que transitaron por los actuales departamentos de Las Heras y Luján de Cuyo. La cordillera de los Andes presenta grandes picos cubiertos de nieve, entre ellos el Cerro Aconcagua y zigzagueantes ríos como el Río Mendoza.",
+        "img":"./src/mendoza.jpg",
+        "cantidadAdultos": 0,
+        "cantidadMenores": 0
+    },
+    {
+        "id": "#/Salta",
+        "nombre":"Salta",
+        "precioAdulto": 25000 ,
+        "precioMenor": 21000 ,
+        "detalle":"Salta es ideal para sus vacaciones ya sea para el relax o Turismo Aventura ya sea, trekking, pesca, tours y excursiones, salir en canoa, cabalgatas, mountain bike, montañismo, etc.La ciudad de Salta, Conocida como ''Salta la linda'' ha conservado la arquitectura típica de la época colonial., paredes blancas, techos con tejas rojas, aljibes, donde se mezcla esa era con la actual.",
+        "img":"./src/salta.jpg",
+        "cantidadAdultos": 0,
+        "cantidadMenores": 0
+    },
+    {
+        "id": "#/Glaciar",
+        "nombre":"Glaciar",
+        "precioAdulto": 55000 ,
+        "precioMenor": 51000 ,
+        "detalle":"El Glaciar Perito Moreno es uno de los glaciares más espectaculares de la Argentina. Con sus 5 km de ancho, y ubicado a 60 msnm, sorprende tanto a locales como a visitantes. Se localiza en el Parque Nacional Los Glaciares, junto a más de 300 glaciares, que forman lo que se denomina el Campo de Hielo Patagónico. Éste es el manto de hielo más grande del mundo, después de la Antártida, y ocupa la mitad del parque.",
+        "img":"./src/glaciar.jpg",
+        "cantidadAdultos": 0,
+        "cantidadMenores": 0
+    },
+    {
+        "id": "#/RioNegro",
+        "nombre":"Rio Negro",
+        "precioAdulto": 45000 ,
+        "precioMenor": 40000 ,
+        "detalle":"La provincia de Río Negro ocupa un amplio corredor del sur del país, entre la Cordillera de los Andes al oeste y las costas del Océano Atlántico en el este. Ambas geografías, tan distintas, son las más reconocidas por contar con centros turísticos de mucha relevancia.",
+        "img":"./src/bariloche.jpg",
+        "cantidadAdultos": 0,
+        "cantidadMenores": 0
+    }
+
+    
+    ]

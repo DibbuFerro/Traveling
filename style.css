@@ -1,0 +1,66 @@
+html{
+	scroll-behavior: smooth;
+}
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,100;0,300;0,400;1,100;1,700&display=swap');
+
+
+body{
+	font-family: 'Kanit', sans-serif;
+}
+#descubri, #destinoHeader{
+	font-style: italic;
+	font-weight: 700;
+}
+#ContactInFooter{
+	font-weight: 100;
+}
+#ContactInFooter img{
+	width: 40;
+}
+#tripContent{
+	background: dark;
+	border-radius: 15px;
+	box-shadow: 0px 10px 25px 
+	rgba(247,247,247, 0.5)	
+}
+#decoration{
+	left: 15px
+}
+ul {
+	list-style-type: none;
+  }
+#listNav{
+	font-size: 1.5rem;
+
+}
+#hov1, #hov2, #hov3, #hov4, #hov5, #hov6{
+	cursor:pointer;
+	background: rgba(14, 14,14, 0.5);
+	transition: all 500ms ease-out;
+	opacity: 0;
+	visibility: hidden;
+}
+#card1:hover > #hov1{
+	opacity: 1;
+	visibility: visible;
+}
+#card2:hover > #hov2{
+	opacity: 1;
+	visibility: visible;
+}
+#card3:hover > #hov3{
+	opacity: 1;
+	visibility: visible;
+}
+#card4:hover > #hov4{
+	opacity: 1;
+	visibility: visible;
+}
+#card5:hover > #hov5{
+	opacity: 1;
+	visibility: visible;
+}
+#card6:hover > #hov6{
+	opacity: 1;
+	visibility: visible;
+}
